@@ -22,7 +22,7 @@ Designed for educational and research purposes, this project demonstrates how ha
 
 - Clone the repository:
 
-git clone https://github.com/yourusername/SignLangDetector.git
+git clone https://github.com/Coachemmy/signLanguage.git
 cd SignLangDetector
 
 - Install required dependencies (preferably in a virtual environment):
@@ -41,7 +41,10 @@ pip install opencv-python numpy cvzone tensorflow
 
 - Press s to save the current normalized hand image (imgWhite) to the dataset folder.
 
-Images are standardized to 300x300 pixels, with aspect ratio preserved.
+- Images are standardized to 300x300 pixels, with aspect ratio preserved.
+
+  <img width="1846" height="807" alt="Screenshot 2025-09-16 010158" src="https://github.com/user-attachments/assets/2353d1bc-2dad-4587-b9aa-deb73cd2aad7" />
+
 
 2. Real-time Gesture Prediction
 
