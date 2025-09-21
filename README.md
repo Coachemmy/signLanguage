@@ -43,7 +43,12 @@ pip install opencv-python numpy cvzone tensorflow
 
 - Images are standardized to 300x300 pixels, with aspect ratio preserved.
 
+
+# While training
   <img width="1846" height="807" alt="Screenshot 2025-09-16 010158" src="https://github.com/user-attachments/assets/2353d1bc-2dad-4587-b9aa-deb73cd2aad7" />
+
+ # After training
+  <img width="1889" height="856" alt="Screenshot 2025-09-16 010626" src="https://github.com/user-attachments/assets/bb816085-fa8d-4e2b-b1df-b3b3ab72dd38" />
 
 
 2. Real-time Gesture Prediction
